@@ -27,6 +27,7 @@ Insights from my Real Estate Market Analysis with Python Project!
 In this project, I've delved deep into real estate data to uncover valuable insights that can inform strategic decisions for stakeholders across the industry. Let's break it down:
 
 Customer Profile: Understanding customer demographics and preferences is crucial for targeting the right audience. Despite challenges like high demand and limited affordable housing, our analysis reveals valuable insights. Customers between the ages of 31 and 42, particularly in the 36 to 42 bracket, are more likely to purchase properties. Armed with this knowledge, real estate firms can craft targeted marketing campaigns on platforms like Facebook and YouTube to reach potential buyers effectively.
+![1708160229316](https://github.com/SAIELESH/Real-Estate-Market-Analysis-with-Python-/assets/107880771/e0d0a500-64c2-4caf-9293-c2ab8a7f2b06)
 
 
 Building Characteristics: Analyzing building data provides crucial information about market trends and consumer preferences. Type 4 buildings, likely offering luxurious or spacious apartments, command higher prices and offer greater deal satisfaction. Developers can leverage this information to decide whether to focus on standard building types or invest in more luxurious offerings to meet consumer demand.
